@@ -3,10 +3,13 @@ RENCANA KONTEN KURSUS
 - Javascript
   * ES8
   * Framework Javascript
-    ^ Meteor.js
-    ^ Ember.js
-    ^ Backbone.js
-- Fundamental Data Dasar
+    ^ Angular
+    ^ React
+    ^ Vue
 - PHP Framworks
+  ^ CakePHP
+  ^ Symfony
+  ^ Yii2
+  ^ Zend Framework
 - Interview
 - Vlogs
