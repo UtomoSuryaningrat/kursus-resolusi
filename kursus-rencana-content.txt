@@ -1,0 +1,11 @@
+RENCANA KONTEN KURSUS
+
+- Javascript
+  * ES8
+  * Framework Javascript
+    ^ Meteor.js
+    ^ Ember.js
+    ^ Backbone.js
+- PHP Framworks
+- Interview
+- Vlogs
