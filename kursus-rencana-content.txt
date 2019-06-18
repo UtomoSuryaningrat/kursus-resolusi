@@ -6,6 +6,7 @@ RENCANA KONTEN KURSUS
     ^ Meteor.js
     ^ Ember.js
     ^ Backbone.js
+- Fundamental Data Dasar
 - PHP Framworks
 - Interview
 - Vlogs
