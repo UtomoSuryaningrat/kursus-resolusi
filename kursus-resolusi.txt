@@ -3,5 +3,5 @@ KURSUS RESOLUSI
 - Membuat platform untuk pengelolaan video
 - Mengadakan forum diskusi
 - Mengevaluasi materi yang telah dipelajari
-- Merencanakan membuat cenderamata shop
 - Melakukan kolaborasi dengan lebih banyak tenaga ahli
+- Membuat website
