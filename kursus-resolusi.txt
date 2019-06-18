@@ -6,4 +6,3 @@ KURSUS RESOLUSI
 - Melakukan kolaborasi dengan lebih banyak tenaga ahli
 - Membuat website
 - Saat ini sedang mempelajari PHP, PHP OOP, MVC, Codeigniter dan Javascript
-- Mempelajari dan mempraktekan materi github
