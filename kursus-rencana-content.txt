@@ -4,8 +4,12 @@ RENCANA KONTEN KURSUS
   * ES8
   * Framework Javascript
     ^ Angular
+    ^ React
     ^ Vue
 - PHP Framworks
-  ^ Codeigniter
+  ^ CakePHP
+  ^ Symfony
+  ^ Yii2
+  ^ Zend Framework
 - Interview
 - Vlogs
