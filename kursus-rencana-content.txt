@@ -13,3 +13,4 @@ RENCANA KONTEN KURSUS
   ^ Zend Framework
 - Interview
 - Vlogs
+- Python
