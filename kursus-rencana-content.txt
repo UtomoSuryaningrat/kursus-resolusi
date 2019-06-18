@@ -6,8 +6,6 @@ RENCANA KONTEN KURSUS
     ^ Meteor.js
     ^ Ember.js
     ^ Backbone.js
-    ^ Aurelia.js
-    ^ Mithril.js  
 - PHP Framworks
 - Interview
 - Vlogs
