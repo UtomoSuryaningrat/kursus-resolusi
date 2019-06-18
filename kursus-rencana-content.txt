@@ -5,6 +5,7 @@ RENCANA KONTEN KURSUS
   * Framework Javascript
     ^ Angular
     ^ React
+    ^ Vue
     ^ Meteor.js
     ^ Ember.js
     ^ Backbone.js
